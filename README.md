@@ -25,4 +25,4 @@ A defining characteristic of this project was the iterative problem-solving proc
 Conclusion
 In conclusion, this project represents the successful fusion of backend data retrieval and frontend design. It not only strengthened my proficiency in Python and environment management but also demonstrated my ability to use artificial intelligence as a partner in the creative process. The final result is a professional-grade tool that provides accurate, real-time insights through a sophisticated digital interface.
 
-
+#OUTPUT:[dashboard of project 1.pdf](https://github.com/user-attachments/files/25417117/dashboard.of.project.1.pdf)
